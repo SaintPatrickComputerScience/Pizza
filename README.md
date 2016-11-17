@@ -7,8 +7,6 @@ This class is designed to create pizza objects that eventually will be ordered b
   -  **meatToppings** should be an array where each item is a string with the name of that topping.
   -  **veggieToppings** should be an array where each item is a string with the name of that topping.
 
-- - -
-
 ## Instance Functions
 
 #### sizeCost()
@@ -27,6 +25,5 @@ This function will take one input, **top**. This function will first use a condi
 #### price()
 This function will return the total cost of the pizza. You will need to need to reuse the two functions above. If done correctly, this will be one line of code.
 
-- - -
-
 ## Class Functions
+
