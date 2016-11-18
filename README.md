@@ -40,5 +40,6 @@ This should be an additional instance function which helps users go back and edi
 
 #### removeTopping()
 This function will accept the same two inputs of **toptype** and **newtop**. However instead of adding the newtop to the correct array, you will remove it. For ideas on how to do this, read these links.
+
 [indexOf] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)  
 [splice] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
