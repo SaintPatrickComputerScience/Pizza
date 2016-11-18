@@ -11,10 +11,10 @@ This class is designed to create pizza objects that eventually will be ordered b
 
 #### sizeCost()
 This function will use a series of conditional statements to return the **cost** of the pizza size. This function **does not** use any inputs.
-    -  Small (S)  = 7.99
-    -  Medium (M) = 9.99
-    -  Large (L) = 12.99
-    -  Extra-Large (XL) = 15.99
+  -  Small (S)  = 7.99
+  -  Medium (M) = 9.99
+  -  Large (L) = 12.99
+  -  Extra-Large (XL) = 15.99
 
 #### toppingCost()
 This function will take one input, **top**. This function will first use a conditional to separate if your topping top is "meat" or "veggie". Meat toppings are 0.99 extra and veggie toppings are 0.50 extra.
